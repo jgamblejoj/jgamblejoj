@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamaal, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jamaal, an <a href="https://www.linkedin.com/in/jamaal-gamble-9b193256/">Art Teacher transitioning into Tech</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
